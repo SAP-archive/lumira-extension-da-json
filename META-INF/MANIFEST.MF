@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SAP Lumira JSON Extension
+Bundle-ClassPath: lib/org.json_0.0.0.jar,lib/commons-io_2.4.jar,lib/commons-lang3-3.4.jar,lib/jackson-core-2.5.0.jar,lib/jackson-annotations-2.6.2.jar,lib/jackson-databind-2.6.2.jar,lib/univocity-parsers-1.5.6.jar,.
+Bundle-SymbolicName: com.sap.bi.da.extension.jsonextension;singleton:=true
+Bundle-Version: 1.29.2.qualifier
+Bundle-Vendor: SAP
+Require-Bundle: com.sap.bi.da.extension.sdk;bundle-version="1.29.2"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: com.sap.bi.da.extension.jsonextension
