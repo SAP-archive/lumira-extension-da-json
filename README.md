@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+We have decided to stop the maintenance of this public GitHub repository.
+
 JSON Connector
 ==========================================================
 SAP Lumira users can now use this connector to import data from JSON files into Lumira documents directly removing the need to manually convert them to CSV. This Lumira extension is built with the V2 SAP Lumira Data Access Extension SDK.
